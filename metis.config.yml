@@ -1,0 +1,4 @@
+project_token: 9f6d07089b0a0749cf2a367f
+name: spotlight_test
+language: python
+entrypoint: main.py
